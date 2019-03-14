@@ -19,7 +19,7 @@ class DDOS():
 		print (main_4)
 		Choose=input(Fore.BLUE+"choose your option:"+Fore.RESET)
 		if Choose==("1"):
-			os.system("tor -f /etc/proxychains.conf")
+			os.system("tor")
 		if Choose==("3"):
 			os.system("nano /etc/proxychains.conf")
 		if Choose==("2"):
