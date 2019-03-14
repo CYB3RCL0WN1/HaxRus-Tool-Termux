@@ -7,10 +7,10 @@ import pxssh
 
 class DDOS():
 
-def code_bn():
-	os.system("toilet -F metal HAX4US")
-	def _init_(self,host,user,password)
-	self.host=host
+	def code_bn():
+		os.system("toilet -F metal HAX4US")
+		def _init_(self,host,user,password)
+		self.host=host
 		self.user=user
 		self.password=password
 		self.session()
