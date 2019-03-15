@@ -3,6 +3,7 @@ import sys
 
 
 def title_install():
+	os.system("pip2 install pygame && apt install openvpn")
 	os.system("apt install openssh && pip2 install socket")
 	os.system("apt install toilet && toilet Package Installed")
 	os.system("pip2 install colorama && toilet Module Installed")
