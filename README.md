@@ -1,4 +1,5 @@
-# DDOS-Botnet-WIP-
+# HaxRus-Custom-Tool
+
 A Simple work in progress DDOS BOTNET coded in python Which also runs TOR
 git clone (GITHUB Url) , cd DDOS-Botnet-WIP- , python Botnet.py
 
